@@ -285,7 +285,7 @@
 ### 8. 渔云机场 - 新疆可用+EMBY服务
 **官网入口**：[👉 渔云机场官网](https://go.clashshome.com/yuyunjc)
 <p align="center">
-  <img src="images/yuyun.png" width="80%" alt="渔云">
+  <img src="images/cloudfisher.png" width="80%" alt="渔云">
 </p>
 **核心优势**：
 - ✅ **新疆可用性保证**（非电信IPV6）
