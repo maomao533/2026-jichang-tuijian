@@ -24,7 +24,6 @@
 ### 1. 红杏云 - 全新IEPL专线+全球60+节点 ⭐
 **官网入口**：[ 👉红杏云官网](https://go.clashshome.com/hongxingyun)  
 **优惠码**：`ABING888`（独家全场8折专属优惠，一个账户可用两次，务必从我的链接注册才能生效）  
-（鉴于国内目前形式，现只放开客户端使用 - 安卓 IOS MAC ，速度稳定性都是很好的，后续缓和会开放订阅的。有其他需求可以选糖果云和乌龟加速）
 <p align="center">
   <img src="images/hongxingyun.png" width="80%" alt="红杏云">
 </p>
