@@ -21,7 +21,7 @@
 
 > **我的真实建议**：主力机场一定要买**两个**轮流切换使用。单一机场再强，也可能遇到突发IP封禁或维护。两个主力互相备份，一个出问题立刻切另一个，体验丝滑如常。以下四家是我目前正在主力使用的机场，全部亲测晚高峰8K视频零卡顿。
 
-### 1. Mitce - 住宅IP+Hysteria2协议+全球节点
+### 1. Mitce - 住宅IP+Hysteria2协议+稳定
 **官网入口**：[👉 Mitce官网](https://go.clashshome.com/mitcejc)  
 <p align="center">
   <img src="images/mitce.png" width="80%" alt="Mitce">
