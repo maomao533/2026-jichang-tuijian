@@ -112,7 +112,7 @@
 | 节点数量 | 30+ |
 | 协议 | Vless + Hysteria2 |
 | 设备限制 | 不限制（合理使用） |
-| AI流媒体解锁 | ChatGPT 全解锁 · Netflix / Disney+ / YouTube Premium |
+| AI流媒体解锁 | AI全解锁 · Netflix / Disney+ / YouTube Premium |
 | 审计情况 | 无审计 |
 | 付款方式 | 支付宝 / 微信 / USDT |
 | TG 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
