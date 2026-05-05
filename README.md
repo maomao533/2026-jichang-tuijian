@@ -140,7 +140,7 @@
 | Travel·差旅便携包 | ¥19.9/一次性 | 500GB | 200Mbps | 永久有效 |
 | Stack·囤货加油包 | ¥79/一次性 | 2000GB | 500Mbps | 永久有效 |
 | Giga·巨量买断包 | ¥328/一次性 | 99T | 800Mbps | 永久有效 |
-| Infinity·终极无限包 | ¥520/一次性 | 流量带宽不限 |  | 含专属节点 |
+| Infinity·终极无限包 | ¥520/一次性 | 不限 | 不限 | 含专属节点 |
 
 <p align="center">
   <img src="images/yuetong.png" width="100%" alt="悦通">
