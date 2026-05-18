@@ -149,7 +149,7 @@
 ---
 
 <span id="yuetong"></span>
-### 2. 悦通 - 多档位套餐 + 不限时大流量包 + 性价比最强
+### 2. 悦通 - 多档位套餐 + 不限时大流量包 + 高性价比
 **官网入口**：
 - [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
 
